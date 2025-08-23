@@ -1,0 +1,19 @@
+.home-ul{
+    overflow: hidden;
+    background-color: #090909;
+}
+.home-li{
+    float: left;
+}
+.home-li,
+.home-a{
+    display: block;
+    color: rgb(241, 231, 231);
+    text-align: left;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+a:hover {
+    background-color: #848080; /* optional hover effect */
+}
